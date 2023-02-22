@@ -1,0 +1,15 @@
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.AssemblyInfo.cs
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\bin\Debug\net6.0\AngleCalculator.exe
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\bin\Debug\net6.0\AngleCalculator.deps.json
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\bin\Debug\net6.0\AngleCalculator.runtimeconfig.json
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\bin\Debug\net6.0\AngleCalculator.dll
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\bin\Debug\net6.0\AngleCalculator.pdb
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.dll
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\refint\AngleCalculator.dll
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.pdb
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\AngleCalculator.genruntimeconfig.cache
+C:\Users\Vartotojas\source\repos\AngleCalculator\AngleCalculator\obj\Debug\net6.0\ref\AngleCalculator.dll
